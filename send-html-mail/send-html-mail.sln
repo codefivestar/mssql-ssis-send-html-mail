@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "send-html-mail", "send-html-mail\send-html-mail.dtproj", "{64FE1400-2019-40B0-908F-603B7D3B395C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FE1400-2019-40B0-908F-603B7D3B395C}.Development|Default.ActiveCfg = Development
+		{64FE1400-2019-40B0-908F-603B7D3B395C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE416C61-6070-45E7-822A-DD5D5BF55C94}
+	EndGlobalSection
+EndGlobal
